@@ -12,4 +12,12 @@
 
 - Podemos crear aplicaciones de CLI e incluso Backend usando el framework [Vapor](https://vapor.codes).
 
-- 
+- Este lenguaje puede ser algo complejo de aprender por todas las características que nos ofrece pero siento que una vez nos sintamos cómodos con él podremos liberar esa habilidad de poder aprender cualquier lenguaje de programación sin estancarnos en ciertos conceptos como los pueden ser :
+  
+  1. Closure.
+  2. Manejo de nulos.
+  3. Protocolos
+  4. Structs y Clases
+  5. Enums
+  6. Entro otros conceptos.
+
