@@ -12,5 +12,8 @@ En este repositorio encontrarás todo el conocimiento que me encuentro desarroll
 3. Git y algún proveedor de alojamiento de código como GitHub, GitLab o BitBucket.
 4. Manejar algún lenguaje para el backend o por otra parte hacer uso de PaaS como los pueden ser Amplify o Firebase.
 
+## ¿Cómo estará distribuido este repositorio?
 
+- Encontrarás directorios con los temas a tratar para el desarrollo de apps.
 
+- 
