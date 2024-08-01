@@ -12,8 +12,22 @@ En este repositorio encontrarás todo el conocimiento que me encuentro desarroll
 3. Git y algún proveedor de alojamiento de código como GitHub, GitLab o BitBucket.
 4. Manejar algún lenguaje para el backend o por otra parte hacer uso de PaaS como los pueden ser Amplify o Firebase.
 
-## ¿Cómo estará distribuido este repositorio?
+## ¿Cómo aprender Swift?
 
-- Encontrarás directorios con los temas a tratar para el desarrollo de apps.
+Como lo mencioné antes, Swift es un lenguaje bastante completo que nos ofrece bastante características que podemos aplicar en nuestros proyectos y esto será bastante abrumador si estás iniciando en la programación, es por esto que te recomiendo el siguiente libro:
 
-- 
+- [Head First Swift](https://www.oreilly.com/library/view/head-first-swift/9781491923184/)
+
+> **_NOTE:_** Te enseña desde cero Swift y lo necesario para programar desde cero.
+
+En el caso que tengas algo de conocimientos en programación o ya te encuentres trabajando y quieras cambiar de área te recomiendo el siguiente recurso:
+
+- [100 days of Swift by Hacking with Swift](https://www.hackingwithswift.com/100)
+
+> **_NOTE:_** Este será el recurso que tomaré para llevar a cabo el aprendizaje de Swift.
+
+Si dispones dinero suficiente para invertir en una plataforma, te presento [Kodeco](https://www.kodeco.com/ios/paths/learn) ex Ray Wenderlich platform.
+
+> **_NOTE:_** Tiene un costo mensual de $49.99 USD ☠️
+
+
