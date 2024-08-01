@@ -21,3 +21,14 @@
   5. Enums
   6. Entro otros conceptos.
 
+Para ejecutar los ejemplois de código debes seguir los siguientes pasos:
+
+```bash
+# Compilar código swift.
+swiftc <filename.swift>
+
+# Ejecutar binario del archivo previamente compilado.
+./binary-file
+```
+
+
